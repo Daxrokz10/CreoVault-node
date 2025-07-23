@@ -1,0 +1,203 @@
+[
+  {
+    "title": "E-commerce UI Kit",
+    "creator": "Anashali Saiyed",
+    "image": "project-images/client-portfolio.png",
+    "codeLink": "https://github.com/anashali01/Client-Portfolio",
+    "deployLink": "https://najeeb-portfolio-virid.vercel.app/",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Paid"
+  },
+  {
+    "title": "Weather API",
+    "creator": "Daksh Gagnani",
+    "image": "project-images/weather-api.png",
+    "codeLink": "https://github.com/Daxrokz10/Weather-API-Project",
+    "deployLink": "https://weather-api-project-virid.vercel.app/",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "Portfolio Web Template(Single Page)",
+    "creator": "Yash Bhakta",
+    "image": "project-images/portfolio-project.png",
+    "codeLink": "https://github.com/y-bhakta/BT-Portfolio",
+    "deployLink": "https://bt-pr-portfolio.vercel.app/",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "3D - Rotate Soda Can Landing Page",
+    "creator": "Anashali Saiyed",
+    "image": "project-images/soda-can.png",
+    "codeLink": "https://github.com/anashali01/soda-landing-page",
+    "deployLink": "https://soda-landingpage.netlify.app/",
+    "downloadLink": "#",
+    "type": "Landing Page",
+    "price": "Free"
+  },
+  {
+    "title": "Business Consultant(Single Page)",
+    "creator": "Yash Bhakta",
+    "image": "project-images/CharlesWeb.png",
+    "codeLink": "https://github.com/y-bhakta/Charles.git",
+    "deployLink": "https://charles-henna.vercel.app/",
+    "downloadLink": "https://charles-henna.vercel.app/",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "Wear-Zx Web Template(Single Page)",
+    "creator": "Anashali Saiyed",
+    "image": "project-images/wear-x.png",
+    "codeLink": "https://github.com/anashali01/WearZx",
+    "deployLink": "https://wear-zx-anashalis-projects.vercel.app/",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "Nature-Plant Shop Landing Page",
+    "creator": "Anashali Saiyed",
+    "image": "project-images/nature-plant.png",
+    "codeLink": "https://github.com/anashali01/nature-plant-shop",
+    "deployLink": "https://nature-plant-shop.vercel.app/",
+    "downloadLink": "#",
+    "type": "Landing Page",
+    "price": "Free"
+  },
+  {
+    "title": "Restaurant WebTemplate(Single Page)",
+    "creator": "Yash Bhakta",
+    "image": "project-images/VictoryWeb.png",
+    "codeLink": "https://github.com/y-bhakta/507-Victory.git",
+    "deployLink": "https://507-victory.vercel.app/",
+    "downloadLink": "https://507-victory.vercel.app/",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "Cura Web Template(Multiple Pages)",
+    "creator": "Anashali Saiyed",
+    "image": "project-images/cura.png",
+    "codeLink": "https://github.com/anashali01/Cura",
+    "deployLink": "https://cura-psi.vercel.app/",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "DigitalAgency Template(Single Page)",
+    "creator": "Yash Bhakta",
+    "image": "project-images/DigitalAgency.png",
+    "codeLink": "https://github.com/y-bhakta/Dabble-Clone.git",
+    "deployLink": "https://dabble-clone.vercel.app/",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "Patch-Coffee Landing Page",
+    "creator": "Anashali Saiyed",
+    "image": "project-images/patch-coffe.png",
+    "codeLink": "https://github.com/anashali01/Anashali8101_coding-final?tab=readme-ov-file",
+    "deployLink": "https://patchcoffeee.netlify.app/",
+    "downloadLink": "#",
+    "type": "Landing Page",
+    "price": "Free"
+  },
+  {
+    "title": "Food Web Template(Single Page)",
+    "creator": "Yash Bhakta",
+    "image": "project-images/Freshheat.png",
+    "codeLink": "https://github.com/y-bhakta/Freshheat.git",
+    "deployLink": "https://freshheat.vercel.app/",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "Mobile Application Design ",
+    "creator": "Najeebali Saiyed",
+    "image": "project-images/camues-suyra.png",
+    "codeLink": "https://www.behance.net/gallery/219948687/Introduction-of-a-new-feature-of-CampusSutra",
+    "deployLink": "https://www.behance.net/gallery/219948687/Introduction-of-a-new-feature-of-CampusSutra",
+    "downloadLink": "#",
+    "type": "Mobile Application",
+    "price": "Free"
+  },
+  {
+    "title": "Logo Design ",
+    "creator": "Najeebali Saiyed",
+    "image": "project-images/eco-nest.png",
+    "codeLink": "https://www.behance.net/gallery/229261737/EcoNest-LogoFolio",
+    "deployLink": "https://www.behance.net/gallery/229261737/EcoNest-LogoFolio",
+    "downloadLink": "#",
+    "type": "Logo Design",
+    "price": "Free"
+  },
+  {
+    "title": "Mobile Application Design ",
+    "creator": "Najeebali Saiyed",
+    "image": "project-images/baskit.png",
+    "codeLink": "https://www.behance.net/gallery/214065831/Baskit-Online-sustainable-grocery-store",
+    "deployLink": "https://www.behance.net/gallery/214065831/Baskit-Online-sustainable-grocery-store",
+    "downloadLink": "#",
+    "type": "Mobile Application",
+    "price": "Free"
+  },
+  {
+    "title": "SELO Agency Web Template(Single Page) ",
+    "creator": "Anashaliali Saiyed",
+    "image": "project-images/selo.png",
+    "codeLink": "https://github.com/anashali01/Selo-clone",
+    "deployLink": "https://selo-seven.vercel.app/",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "SELO Agency Web Template(Single Page) ",
+    "creator": "Anashaliali Saiyed",
+    "image": "project-images/feane.png",
+    "codeLink": "https://github.com/anashali01/Feane?tab=readme-ov-file",
+    "deployLink": "https://feane-clone.netlify.app/#",
+    "downloadLink": "#",
+    "type": "Website",
+    "price": "Free"
+  },
+  {
+    "title": "Admin Dashboard Template(Single Page)",
+    "creator": "Anashaliali Saiyed",
+    "image": "project-images/admin-dash.png",
+    "codeLink": "https://github.com/anashali01/Admin_Dashboard",
+    "deployLink": "https://admin-dashboard-eta-swart.vercel.app/",
+    "downloadLink": "#",
+    "type": "Admin Dashboard",
+    "price": "Free"
+  },
+   {
+    "title": "Modern Slider Web Template(Single Page)",
+    "creator": "Lun Dev",
+    "image": "project-images/modern-slider.png",
+    "codeLink": "https://github.com/HoanghoDev/youtube_v2/tree/main/slider_1",
+    "deployLink": "https://modern-slider-lovat.vercel.app/",
+    "downloadLink": "#",
+    "type": "Modern Slider",
+    "price": "Free"
+  },
+  {
+    "title": "Modern Scroll Animation Web Template",
+    "creator": "Lun Dev",
+    "image": "project-images/scroll-animation.png",
+    "codeLink": "https://github.com/HoanghoDev/youtube_v2/tree/main/scroll_animation",
+    "deployLink": "https://scroll-animation-five-liard.vercel.app/",
+    "downloadLink": "#",
+    "type": "Modern Scroll Animation",
+    "price": "Free"
+  }
+
+]

@@ -1,0 +1,245 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: inline-block;
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+body{
+    overflow-x: hidden;
+    
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.mich {
+    font-family: 'Michroma';
+}
+
+.BA {
+    font-family: 'Bruno Ace';
+}
+
+/* HEADER SECTION */
+
+header .container-fluid {
+    width: 90%;
+}
+
+header ul li a,
+header span {
+    font-size: 24px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+/* HERO SECTION */
+
+.hero-section .arrow-icon i {
+    transform: rotate(-45deg);
+    transition: 0.3s;
+}
+
+.hero-section .arrow-icon i:hover {
+    transform: rotate(0deg);
+    transition: all 0.3s ease-in-out;
+}
+
+.hero-section h1 {
+    font-size: 60px;
+    line-height: 80px;
+    font-family: 'Bruno Ace';
+}
+
+.hero-section span {
+    padding: 5px 15px;
+    font-size: 55px;
+}
+
+.hero-section p {
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Michroma';
+}
+
+.hero-section .hero-img .img-2 {
+    left: 100px;
+    top: 180px;
+    width: 200px;
+    z-index: 99;
+}
+
+.hero-section .hero-img .img-3 {
+    top: 360px;
+    left: 180px;
+    width: 200px;
+    z-index: 99;
+}
+.hero-section .hero-img .img-1{
+    width: 200px;
+}
+.info {
+    background-color: #0b1215 !important;
+}
+
+/* SECOND SECTION */
+.trending-projects {
+    position: relative;
+    background-color: #0B1215;
+    overflow: hidden;
+}
+.trending-projects .row{
+    margin-bottom: 80px!important;
+}
+
+/* THIRD SECTION */
+.all-cards{
+    background-color: #0B1215;
+    margin-top: -48px;
+}
+
+/* Form Start */
+.login-form {
+    margin-top: 1%;
+}
+.login-form .bg{
+    background-color: #181918;
+    border-radius: 20px;
+}
+.login-form .bg .img{
+   animation: switch 20s infinite;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+    border-radius: 60px;
+}
+.login-form .bg .content .text h3{
+    font-size: 48px;
+    color: whitesmoke;
+    font-family: 'Bruno Ace';
+}
+.login-form .bg .content .text p{
+    font-size: 20px;
+    font-family: 'Bruno Ace';
+    color: whitesmoke;
+}
+.login-form .bg .content .username:focus,
+.login-form .bg .content .password:focus{
+    color: #00e6e6;
+}
+.login-form .bg .content .username::placeholder,
+.login-form .bg .content .password::placeholder{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Bruno Ace';
+    color: whitesmoke;
+}
+.login-form .bg .content .username,
+.login-form .bg .content .password{
+    padding: 12px 184px;
+    background-color: transparent;
+    border: 2px solid whitesmoke;
+    border-radius: 15px;
+}
+.login-form .bg .content .password{
+    margin-top: 20px;
+}
+.login-form .bg .content .other-option span{
+    color: whitesmoke;
+    font-family: 'Bruno Ace';
+    font-size: 16px;
+}
+.login-form .bg .content .icon h4{
+    color: whitesmoke;
+    font-family: 'Bruno Ace';
+    font-size: 20px;
+}
+.login-form .bg .content .icon i{
+    font-size: 35px;
+    color: whitesmoke;
+    padding: 15px 10px;
+}
+/* Form End */
+
+/* INDICATOR */
+
+/* Slider Prev/Next Button Styles */
+.trending-projects .slider-controls {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 16px;
+    z-index: 2;
+}
+
+.trending-projects .slider-controls button {
+    background: #0ff;
+    color: #0B1215;
+    border: none;
+    border-radius: 50%;
+    width: 38px;
+    height: 38px;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s, color 0.3s, transform 0.3s;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    outline: none;
+}
+
+.trending-projects .slider-controls button:disabled {
+    background: #444;
+    color: #aaa;
+    cursor: not-allowed;
+    transform: scale(0.95);
+}
+
+.trending-projects .slider-controls button:hover:not(:disabled) {
+    background: #00e6e6;
+    color: #222;
+    transform: scale(1.08);
+}
+
+/* Card transition effect */
+.trending-projects .row .col-3 {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.4s, transform 0.4s;
+}
+
+.trending-projects .row .col-3.show {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+@keyframes switch{
+    0%{
+        background-image: url('../images/form-1.jpeg');
+    }
+    50%{
+        background-image: url('../images/form-2.jpeg');
+    }
+    100%{
+        background-image: url('../images/form-3.jpeg');
+    }
+    
+}
+
+#main-content {
+    display: none;
+}
+#login-form {
+    display: block;
+}
