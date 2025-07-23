@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Bruno Ace';
-    src: url('../Font/brunoAce/BrunoAce-Regular.woff') format('woff2'),
-        url('../Font/brunoAce/BrunoAce-Regular.woff') format('woff');
+    src: url('../font/brunoAce/BrunoAce-Regular.woff') format('woff2'),
+        url('../font/brunoAce/BrunoAce-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -9,23 +9,23 @@
 
 @font-face {
     font-family: 'Michroma';
-    src: url('../Font/brunoAce/Michroma-Regular.woff') format('woff2'),
-        url('../Font/brunoAce/Michroma-Regular.woff') format('woff');
+    src: url('../font/brunoAce/Michroma-Regular.woff') format('woff2'),
+        url('../font/brunoAce/Michroma-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'MODERNIZ';
-    src: url('../Font/Moderniz/MODERNIZ.woff2') format('woff2');
+    src: url('../font/Moderniz/MODERNIZ.woff2') format('woff2');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
     font-family: 'Alata';
-    src: url('../Font/Alata/Alata-Regular.woff') format('woff2'),
-        url('../Font/Alata/Alata-Regular.woff2') format('woff');
+    src: url('../font/Alata/Alata-Regular.woff') format('woff2'),
+        url('../font/Alata/Alata-Regular.woff2') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
