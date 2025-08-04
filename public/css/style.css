@@ -107,68 +107,7 @@ header span {
     margin-top: -48px;
 }
 
-/* Form Start */
-.login-form {
-    margin-top: 1%;
-}
-.login-form .bg{
-    background-color: #181918;
-    border-radius: 20px;
-}
-.login-form .bg .img{
-   animation: switch 20s infinite;
-    background-position: center;
-    background-size: cover;
-    height: 90vh;
-    border-radius: 60px;
-}
-.login-form .bg .content .text h3{
-    font-size: 48px;
-    color: whitesmoke;
-    font-family: 'Bruno Ace';
-}
-.login-form .bg .content .text p{
-    font-size: 20px;
-    font-family: 'Bruno Ace';
-    color: whitesmoke;
-}
-.login-form .bg .content .username:focus,
-.login-form .bg .content .password:focus{
-    color: #00e6e6;
-}
-.login-form .bg .content .username::placeholder,
-.login-form .bg .content .password::placeholder{
-    text-align: center;
-    font-size: 16px;
-    font-family: 'Bruno Ace';
-    color: whitesmoke;
-}
-.login-form .bg .content .username,
-.login-form .bg .content .password{
-    padding: 12px 184px;
-    background-color: transparent;
-    border: 2px solid whitesmoke;
-    border-radius: 15px;
-}
-.login-form .bg .content .password{
-    margin-top: 20px;
-}
-.login-form .bg .content .other-option span{
-    color: whitesmoke;
-    font-family: 'Bruno Ace';
-    font-size: 16px;
-}
-.login-form .bg .content .icon h4{
-    color: whitesmoke;
-    font-family: 'Bruno Ace';
-    font-size: 20px;
-}
-.login-form .bg .content .icon i{
-    font-size: 35px;
-    color: whitesmoke;
-    padding: 15px 10px;
-}
-/* Form End */
+
 
 /* INDICATOR */
 
@@ -224,22 +163,3 @@ header span {
     transform: translateY(0);
 }
 
-@keyframes switch{
-    0%{
-        background-image: url('../images/form-1.jpeg');
-    }
-    50%{
-        background-image: url('../images/form-2.jpeg');
-    }
-    100%{
-        background-image: url('../images/form-3.jpeg');
-    }
-    
-}
-
-#main-content {
-    display: none;
-}
-#login-form {
-    display: block;
-}
