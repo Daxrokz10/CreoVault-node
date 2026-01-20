@@ -27,5 +27,6 @@
     "url": "https://github.com/Daxrokz10/CreoVault-node/issues"
   },
   "homepage": "https://github.com/Daxrokz10/CreoVault-node#readme",
-  "description": ""
+  "description": "",
+  "type": "module"
 }
