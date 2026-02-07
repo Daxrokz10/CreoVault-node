@@ -1,4 +1,5 @@
 import Project from '../models/project.js';
+import User from '../models/usrSchema.js';
 
 const proctl = {
     homepage(req, res) {
@@ -22,9 +23,7 @@ const proctl = {
             res.status(500).send('Error saving project');
         }
     },
-    loginpage(req,res){
-        res.render('./pages/login.ejs');
-    }
+    
 }
 
 export default proctl;
